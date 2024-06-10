@@ -1,0 +1,51 @@
+2024-06-05T16:13:21.741+05:30  INFO 9992 --- [log4jspring] [restartedMain] c.example.demo.Log4jspringApplication    : Starting Log4jspringApplication using Java 17.0.5 with PID 9992 (C:\Users\Rathod\Desktop\Restfulweb\log4jspring\target\classes started by Rathod in C:\Users\Rathod\Desktop\Restfulweb\log4jspring)
+2024-06-05T16:13:21.743+05:30  INFO 9992 --- [log4jspring] [restartedMain] c.example.demo.Log4jspringApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-06-05T16:13:22.108+05:30  INFO 9992 --- [log4jspring] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 1234 (http)
+2024-06-05T16:13:22.160+05:30  INFO 9992 --- [log4jspring] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-05T16:13:22.161+05:30  INFO 9992 --- [log4jspring] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-05T16:13:22.215+05:30  INFO 9992 --- [log4jspring] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-05T16:13:22.216+05:30  INFO 9992 --- [log4jspring] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 466 ms
+2024-06-05T16:13:22.360+05:30  INFO 9992 --- [log4jspring] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-06-05T16:13:22.372+05:30  INFO 9992 --- [log4jspring] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 1234 (http) with context path '/'
+2024-06-05T16:13:22.380+05:30  INFO 9992 --- [log4jspring] [restartedMain] c.example.demo.Log4jspringApplication    : Started Log4jspringApplication in 0.728 seconds (process running for 79.482)
+2024-06-05T16:13:22.383+05:30  INFO 9992 --- [log4jspring] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2024-06-05T16:13:27.557+05:30  INFO 9992 --- [log4jspring] [RMI TCP Connection(4)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2024-06-05T16:13:37.551+05:30  INFO 11020 --- [log4jspring] [restartedMain] c.example.demo.Log4jspringApplication    : Starting Log4jspringApplication using Java 17.0.5 with PID 11020 (C:\Users\Rathod\Desktop\Restfulweb\log4jspring\target\classes started by Rathod in C:\Users\Rathod\Desktop\Restfulweb\log4jspring)
+2024-06-05T16:13:37.556+05:30  INFO 11020 --- [log4jspring] [restartedMain] c.example.demo.Log4jspringApplication    : No active profile set, falling back to 1 default profile: "default"
+2024-06-05T16:13:37.674+05:30  INFO 11020 --- [log4jspring] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-05T16:13:37.675+05:30  INFO 11020 --- [log4jspring] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-05T16:13:39.869+05:30  INFO 11020 --- [log4jspring] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 1234 (http)
+2024-06-05T16:13:39.893+05:30  INFO 11020 --- [log4jspring] [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-06-05T16:13:39.894+05:30  INFO 11020 --- [log4jspring] [restartedMain] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-05T16:13:40.037+05:30  INFO 11020 --- [log4jspring] [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-06-05T16:13:40.038+05:30  INFO 11020 --- [log4jspring] [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2360 ms
+2024-06-05T16:13:40.718+05:30  INFO 11020 --- [log4jspring] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-06-05T16:13:40.771+05:30  INFO 11020 --- [log4jspring] [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 1234 (http) with context path '/'
+2024-06-05T16:13:40.791+05:30  INFO 11020 --- [log4jspring] [restartedMain] c.example.demo.Log4jspringApplication    : Started Log4jspringApplication in 4.141 seconds (process running for 5.085)
+2024-06-05T16:13:47.525+05:30  INFO 11020 --- [log4jspring] [http-nio-1234-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-05T16:13:47.525+05:30  INFO 11020 --- [log4jspring] [http-nio-1234-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-06-05T16:13:47.527+05:30  INFO 11020 --- [log4jspring] [http-nio-1234-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-06-05T16:13:47.582+05:30  INFO 11020 --- [log4jspring] [http-nio-1234-exec-1] c.e.demo.controller.MessageController    : [getmessage] info message
+2024-06-05T16:13:47.582+05:30  WARN 11020 --- [log4jspring] [http-nio-1234-exec-1] c.e.demo.controller.MessageController    : [getmessage] warn message
+2024-06-05T16:13:47.583+05:30 ERROR 11020 --- [log4jspring] [http-nio-1234-exec-1] c.e.demo.controller.MessageController    : [getmessage] error message
+2024-06-05T16:13:47.583+05:30 DEBUG 11020 --- [log4jspring] [http-nio-1234-exec-1] c.e.demo.controller.MessageController    : [getmessage] debug message
+2024-06-05 16:15:28 | INFO  | com.example.demo.Log4jspringApplication | Starting Log4jspringApplication using Java 17.0.5 with PID 14160 (C:\Users\Rathod\Desktop\Restfulweb\log4jspring\target\classes started by Rathod in C:\Users\Rathod\Desktop\Restfulweb\log4jspring)
+2024-06-05 16:15:28 | INFO  | com.example.demo.Log4jspringApplication | No active profile set, falling back to 1 default profile: "default"
+2024-06-05 16:15:28 | INFO  | org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor | Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-06-05 16:15:28 | INFO  | org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor | For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-06-05 16:15:29 | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat initialized with port 1234 (http)
+2024-06-05 16:15:29 | INFO  | org.apache.catalina.core.StandardService | Starting service [Tomcat]
+2024-06-05 16:15:29 | INFO  | org.apache.catalina.core.StandardEngine | Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-06-05 16:15:29 | INFO  | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring embedded WebApplicationContext
+2024-06-05 16:15:29 | INFO  | org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext | Root WebApplicationContext: initialization completed in 1417 ms
+2024-06-05 16:15:30 | INFO  | org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer | LiveReload server is running on port 35729
+2024-06-05 16:15:30 | INFO  | org.springframework.boot.web.embedded.tomcat.TomcatWebServer | Tomcat started on port 1234 (http) with context path '/'
+2024-06-05 16:15:30 | INFO  | com.example.demo.Log4jspringApplication | Started Log4jspringApplication in 2.758 seconds (process running for 3.683)
+2024-06-05 16:15:37 | INFO  | org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] | Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-06-05 16:15:37 | INFO  | org.springframework.web.servlet.DispatcherServlet | Initializing Servlet 'dispatcherServlet'
+2024-06-05 16:15:37 | INFO  | org.springframework.web.servlet.DispatcherServlet | Completed initialization in 1 ms
+2024-06-05 16:15:37 | INFO  | com.example.demo.controller.MessageController | [getmessage] info message
+2024-06-05 16:15:37 | WARN  | com.example.demo.controller.MessageController | [getmessage] warn message
+2024-06-05 16:15:37 | ERROR | com.example.demo.controller.MessageController | [getmessage] error message
+2024-06-05 16:15:37 | DEBUG | com.example.demo.controller.MessageController | [getmessage] debug message
+2024-06-05 16:16:16 | INFO  | org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin | Application shutdown requested.
